@@ -1,2 +1,2 @@
 # Axe-Game
-First "Game" created in C++
+This is my first "Game" created in C++
